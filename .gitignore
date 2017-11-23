@@ -1,5 +1,6 @@
 dist 
 node_modules
+original_theme
 app/.idea
 app/lib
 bower_components
