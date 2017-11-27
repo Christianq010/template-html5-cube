@@ -49,3 +49,13 @@ This will watch your sass files, compile them and run your dev server at http://
 ```sh
 $ npm start
 ```
+
+### Dependencies on this project
+Directories and files copied from template.
+
+* Bootstrap
+* [Animate.css](https://github.com/daneden/animate.css)
+* Icomoon free - [repo](https://github.com/layerssss/icomoon-bower)
+* [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup)
+* Owl.carousel - [repo](https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html)
+* jQuery Easing - [1.3 repo](https://github.com/jozefizso/bower-jquery-easing)
