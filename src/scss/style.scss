@@ -1,7 +1,17 @@
+// Our Bootstrap Imports
+@import "../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap-compass";
+
+/* 
+-
+-
+-
+*/
+
+// Our Custom Styles
 $bg-color: #333;
 $color: #fff;
-
 body {
     background: $bg-color;
-    color:$color;
+    color: $color;
 }
