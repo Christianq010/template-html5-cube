@@ -17,6 +17,7 @@
   "dependencies": {
     "bootstrap-sass": "^3.3.7",
     "animate.css": "^3.5.2",
-    "icomoon-bower": "icomoon#^0.1.2"
+    "icomoon-bower": "icomoon#^0.1.2",
+    "magnific-popup": "^1.1.0"
   }
 }
